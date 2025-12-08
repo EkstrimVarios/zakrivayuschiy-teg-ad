@@ -1,1 +1,10 @@
 /* В этом файле будут храниться все значения переменных в исходном состоянии, а так же их изменения в зависимости от ширины устройства */
+
+/* Root variables */
+
+:root {
+  --main-font-family: Inter, sans-serif;
+  --fantasy-font-family: "Press Start 2P", fantasy;
+  --heart-color: #ff0000;
+}
+
